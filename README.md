@@ -6,7 +6,7 @@ This project simulates a real-world production system with **CRUD operations, au
 
 ---
 
-## ✨ Features
+##  Features
 
 -  **CRUD Operations** → Create, Read, Update, Delete student records efficiently.  
 -  **File Persistence** → Automatically saves student data to files to ensure reliability.  
@@ -31,3 +31,10 @@ This project simulates a real-world production system with **CRUD operations, au
 ```bash
 git clone https://github.com/sumanpanditofficial/Student-Management-System.git
 cd Student-Management-System
+
+//compile the project
+javac -d bin src/**/*.java
+
+//Run the project
+java -cp bin com.suman.main.Main
+
