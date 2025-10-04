@@ -21,7 +21,7 @@ This project simulates a real-world production system with **CRUD operations, au
 
 - **Language:** Java 17+  
 - **Core Concepts:** OOP, Multithreading, File I/O, Exception Handling  
-- **Architecture:** Layered (Model → Service → Util → Exception)  
+- **Architecture:** Layered (Model → Service → Util → Exception → thread)  
 
 ---
 
